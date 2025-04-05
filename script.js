@@ -557,8 +557,8 @@ This Agreement is governed by and construed in accordance with the laws of [Inse
 ## 8. Severability
 If any provision of this Agreement is found to be unenforceable, the remaining provisions will remain in full force and effect.
 ---
-## 10. External Credits
-Checkboxes code was taken from CSS Scan, and the source code can be found on CSS Scan or CodePen.
+## 9. External Credits
+Checkbox code was taken from CSS Scan, and the source code can be found on CSS Scan or CodePen.
 ---
 ## 10. Contact Information
 For questions or concerns regarding this License Agreement, please contact us at:
